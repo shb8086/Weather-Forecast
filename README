@@ -1,0 +1,4 @@
+# Weather-Forecast
+- It uses Google Maps Geocoding API to transform any string address into numeric coordinates.
+  - It obtains weekly forecast and related weather information for any coordinates in the World.
+  - Output language and metric system are configurables parameters.
